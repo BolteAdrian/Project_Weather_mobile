@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProiectAndroid</string>
+    <string name="banner_adunit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="editTextPassword"></string>
+    <string name="Submit">Submit</string>
+</resources>
